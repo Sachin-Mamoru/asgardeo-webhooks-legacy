@@ -2,7 +2,7 @@
 org = "sachinm"
 name = "login_service_hook"
 version = "0.1.0"
-distribution = "2201.12.7"
+distribution = "2201.3.2"
 
 [build-options]
 observabilityIncluded = true
