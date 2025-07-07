@@ -4,10 +4,10 @@ name = "login_service_hook"
 version = "0.1.0"
 distribution = "2201.12.7"
 
+[build-options]
+observabilityIncluded = true
+
 [[dependency]]
 org = "ballerina"
 name = "cloud"
 version = "2.11.2"
-
-[build-options]
-observabilityIncluded = true
